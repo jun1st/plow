@@ -126,7 +126,7 @@ Args:
   <url>  request url
 ```
 
-### Examples
+### Usage Examples
 
 Basic usage:
 
